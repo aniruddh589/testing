@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        My Blog dhaval
+        My Blog dhaval and anu radadiya
       </h1>
     </div>
   );
