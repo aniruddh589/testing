@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Link to="/home"> Home </Link>
+        <Link to="/home" className='home-page-text'> Home </Link>
           <Routes>
             <Route path='/home' element={ <Home /> } />
           </Routes>
